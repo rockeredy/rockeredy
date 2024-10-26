@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to my GitHub
 
-<!--
-**rockeredy/rockeredy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! This is my personal repository where I keep projects, experiments, and notes.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m constantly learning new technologies.
+- 🛠️ Here you will find code I've created for fun or personal projects.
+- 📫 You can contact me at contacto@eduardoreyescruz.com
+
+## Notes
+
+This space is primarily for personal use, so don't expect to see polished projects or complete documentation.
+
+Thanks for visiting!
