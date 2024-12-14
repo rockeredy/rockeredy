@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="25.0.3">
   <diagram name="Página-1" id="dXAmtk8UxJzxFK8MmRvf">
-    <mxGraphModel dx="2185" dy="1729" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1807" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,19 @@
           <mxGeometry x="353" y="-398" width="287" height="155" as="geometry" />
         </mxCell>
         <mxCell id="2BBSSDKxdeMGpXaTtLqC-26" value="Stripe" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="-366" width="228" height="106.5" as="geometry" />
+          <mxGeometry x="382.5" y="-366" width="218.5" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="2BBSSDKxdeMGpXaTtLqC-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="897" y="-446.5" width="313" height="252" as="geometry" />
+        </mxCell>
+        <mxCell id="2BBSSDKxdeMGpXaTtLqC-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1292" y="-2" width="322" height="318" as="geometry" />
+        </mxCell>
+        <mxCell id="2BBSSDKxdeMGpXaTtLqC-29" value="WhatsApp comunidad" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1368" y="138" width="192" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="2BBSSDKxdeMGpXaTtLqC-30" value="Mailchimp&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="938" y="-359" width="225" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
