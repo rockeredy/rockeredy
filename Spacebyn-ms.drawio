@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15" version="25.0.3">
   <diagram name="Página-1" id="dXAmtk8UxJzxFK8MmRvf">
-    <mxGraphModel dx="4267" dy="3213" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3714" dy="2926" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2BBSSDKxdeMGpXaTtLqC-48" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1952" y="-116" width="534" height="512" as="geometry" />
+          <mxGeometry x="1950" y="-122" width="534" height="512" as="geometry" />
+        </mxCell>
+        <mxCell id="2BBSSDKxdeMGpXaTtLqC-53" value="Producto" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="2184" y="85" width="60" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="2BBSSDKxdeMGpXaTtLqC-55" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.034;entryY=0.574;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2BBSSDKxdeMGpXaTtLqC-48">
+          <mxGeometry width="120" relative="1" as="geometry">
+            <mxPoint x="1630" y="170" as="sourcePoint" />
+            <mxPoint x="1623" y="120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
